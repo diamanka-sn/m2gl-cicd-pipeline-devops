@@ -37,6 +37,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<finalName>m2ginielogiciel-ci-cd</finalName>
 	</build>
 
 </project>
